@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mayank Ratre</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Mayank300/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
@@ -29,5 +29,5 @@
   </a>
   <br>
   
-  <p align="right" > Created with 🖤 by <a href="https://github.com/Ratheshan03">Ratheshan03</a></p>
+  <p align="right" > Created with 🖤 by <a href="https://github.com/Mayank300">Mayank300</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=Mayank300&label=Profile%20views&color=0e75b6&style=flat" alt="Mayank300" /> </p>
