@@ -5,8 +5,7 @@
 
 😁
 
-[![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank300)](https://github.com/anuraghazra/github-readme-stats)
 
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank300&count_private=true)
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank300&show_icons=true&theme=dracula)
 
 
