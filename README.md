@@ -8,7 +8,7 @@
   <b><i>"I love NEOVIM"</i></b>
 </p>
 
-<div align="center">
+<div align="center" display="flex" gap=16px>
 
 
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank300&show_icons=true&theme=dracula)
@@ -34,8 +34,10 @@
   <a href="https://www.youtube.com/@MTNK03">
     <img align="left" alt="Mayank Ratre | YouTube" width="26px" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" />
   </a>
-</div>  
-  <br>
   
-  <p align="right" > Created with 🖤 by <a href="https://github.com/Mayank300">MTNK</a></p>
+</div>  
+
+<br>
+  
+<p align="right" > Created with 🖤 by <a href="https://github.com/Mayank300">MTNK</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=Mayank300&label=Profile%20views&color=0e75b6&style=flat" alt="Mayank300" /> </p>
