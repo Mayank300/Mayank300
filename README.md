@@ -9,10 +9,12 @@
 </p>
 
 <div align="center">
+
+
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank300&show_icons=true&theme=dracula)
 
 <h4> Connect with me 🤝 : <h4>
-  </hr>
+  
   
   <a href="mailto:mratre300@gmail.com">
     <img align="left" alt="Mayank Ratre | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
