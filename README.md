@@ -1,14 +1,11 @@
-<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">I'm Mayank</h1>
-<p align="center">
-  <a href="https://github.com/Mayank300/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=React+Native+Expert;Computer+Science+Enthusiast;Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
-</p>
+<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mayank</h1>
 
 <p align="center">
   <em>
-    This is ME, Mayank Ratre,<b> Learning</b> Computer Science.
-    An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+    <b> Learning</b> 
+    Computer Science.
   <br>
-  <b><i>"---Work Hard and Trust the Process---"</i></b>
+  <b><i>"---I love NEOVIM---"</i></b>
 </p>
 
 
@@ -21,13 +18,22 @@
     <img align="left" alt="Mayank Ratre | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="https://twitter.com/MAYANK__RATRE">
-    <img align="left" alt="Mayank Ratre| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+    <img align="left" alt="Mayank Ratre| X(Twitter)" width="26px" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" />
   </a>
 
    <a href="https://github.com/Mayank300">
     <img align="left" alt="Mayank Ratre | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
+
+   <a href="https://www.twitch.tv/mtnk03">
+    <img align="left" alt="Mayank Ratre | Twitch" width="26px" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" />
+  </a>
+
+  <a href="https://www.youtube.com/@MTNK03">
+    <img align="left" alt="Mayank Ratre | YouTube" width="26px" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" />
+  </a>
+  
   <br>
   
-  <p align="right" > Created with 🖤 by <a href="https://github.com/Mayank300">Mayank300</a></p>
+  <p align="right" > Created with 🖤 by <a href="https://github.com/Mayank300">MTNK</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=Mayank300&label=Profile%20views&color=0e75b6&style=flat" alt="Mayank300" /> </p>
