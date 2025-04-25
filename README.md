@@ -8,11 +8,12 @@
   <b><i>"I love NEOVIM"</i></b>
 </p>
 
-<div align="center" display="flex" gap=16px>
+<div style="display: flex; justify-content: center;">
 
 
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank300&show_icons=true&theme=dracula)
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank300&show_icons=true&theme=gruvbox)
 
+<div>
 <h4> Connect with me 🤝 : <h4>
   
   
@@ -32,9 +33,9 @@
   </a>
 
   <a href="https://www.youtube.com/@MTNK03">
-    <img align="left" alt="Mayank Ratre | YouTube" width="26px" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" />
+    <img align="left" alt="Mayank Ratre | YouTube" width="26px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
   </a>
-  
+</div>
 </div>  
 
 <br>
