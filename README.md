@@ -1,14 +1,14 @@
-<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mayank</h1>
+<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mayank Ratre</h1>
 
 <p align="center">
   <em>
     <b> Learning</b> 
     Computer Science.
   <br>
-  <b><i>"---I love NEOVIM---"</i></b>
+  <b><i>"I love NEOVIM"</i></b>
 </p>
 
-
+<div align="center">
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank300&show_icons=true&theme=dracula)
 
 <h4> Connect with me 🤝 : <h4>
@@ -32,7 +32,7 @@
   <a href="https://www.youtube.com/@MTNK03">
     <img align="left" alt="Mayank Ratre | YouTube" width="26px" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" />
   </a>
-  
+</div>  
   <br>
   
   <p align="right" > Created with 🖤 by <a href="https://github.com/Mayank300">MTNK</a></p>
