@@ -3,9 +3,8 @@
 <p align="center">
   <em>
     <b> Learning</b> 
-    Computer Science.
+    to code....
   <br>
-  <b><i>"I love NEOVIM"</i></b>
 </p>
 
 <div style="display: flex; justify-content: center;">
